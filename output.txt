@@ -1,0 +1,10 @@
+PS C:\Users\kjaga\OneDrive\Desktop\pythonC24\assignment_1\library_manager> python main.py
+Alice borrowed: Book: Python 101 by A. Rao (ID 1)
+Could not borrow: Item Python 101 is not available
+Bob borrowed: Magazine: test magazine (Issue 1) (ID 2)
+Could not borrow: Member Bob has reached the maximum number of items
+Could not return: Item test dvd is not borrowed by Bob
+Book: Python 101 by A. Rao (ID 1) -> late fee for 3 days: Rs 6
+Magazine: test magazine (Issue 1) (ID 2) -> late fee for 3 days: Rs 3
+DVD: test dvd (Duration 120 minutes) (ID 3) -> late fee for 3 days: Rs 15
+Total items created: 3
